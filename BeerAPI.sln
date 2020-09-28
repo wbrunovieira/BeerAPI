@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerAPI", "BeerAPI\BeerAPI.csproj", "{732F5050-8A68-42F8-AA78-D7EBC1DD5803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732F5050-8A68-42F8-AA78-D7EBC1DD5803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732F5050-8A68-42F8-AA78-D7EBC1DD5803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732F5050-8A68-42F8-AA78-D7EBC1DD5803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732F5050-8A68-42F8-AA78-D7EBC1DD5803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
